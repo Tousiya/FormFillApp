@@ -17,6 +17,16 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <br>
 
+    <label for="Aadhar"><b>Aaadhar Number</b></label>
+    <input type="password" placeholder="Enter Aadhar Number" name="Aadhar" id="Aadhar" required>
+    <br>
+
+    <label for="Batch Time"><b>Batch Time</b></label>
+    <input type="Batch Time" placeholder="Batch Time" name="Time" id="Time" required>
+    <br>
+
+
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
