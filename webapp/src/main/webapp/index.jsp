@@ -18,9 +18,11 @@
     <br>
 
 
-    <label for="Course Name"><b>Course Name/b></label>
+    <label for="Course Name"><b>Course Name </b></label>
     <input type="Course Name" placeholder="Course Name" name="course name" id="course name" required>
     <br>
+
+    Deploying to Docker's Image & Container.
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
